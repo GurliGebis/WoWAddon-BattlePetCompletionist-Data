@@ -1,0 +1,20 @@
+package-as: BattlePetCompletionist_PetData
+enable-nolib-creation: no
+
+move-folders:
+    BattlePetCompletionist_PetData/BattlePetCompletionist_BattleForAzeroth: BattlePetCompletionist_BattleForAzeroth
+    BattlePetCompletionist_PetData/BattlePetCompletionist_Cataclysm: BattlePetCompletionist_Cataclysm
+    BattlePetCompletionist_PetData/BattlePetCompletionist_Dragonflight: BattlePetCompletionist_Dragonflight
+    BattlePetCompletionist_PetData/BattlePetCompletionist_Legion: BattlePetCompletionist_Legion
+    BattlePetCompletionist_PetData/BattlePetCompletionist_MistsOfPandaria: BattlePetCompletionist_MistsOfPandaria
+    BattlePetCompletionist_PetData/BattlePetCompletionist_Shadowlands: BattlePetCompletionist_Shadowlands
+    BattlePetCompletionist_PetData/BattlePetCompletionist_TheBurningCrusade: BattlePetCompletionist_TheBurningCrusade
+    BattlePetCompletionist_PetData/BattlePetCompletionist_TheWarWithin: BattlePetCompletionist_TheWarWithin
+    BattlePetCompletionist_PetData/BattlePetCompletionist_Vanilla: BattlePetCompletionist_Vanilla
+    BattlePetCompletionist_PetData/BattlePetCompletionist_WarlordsOfDraenor: BattlePetCompletionist_WarlordsOfDraenor
+    BattlePetCompletionist_PetData/BattlePetCompletionist_WrathOfTheLichKing: BattlePetCompletionist_WrathOfTheLichKing
+
+ignore:
+  - Source
+  - TemplateData.lua
+  - Update-PetData.ps1

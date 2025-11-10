@@ -1,0 +1,24 @@
+## Interface: 110205
+## Title: Battle Pet Completionist: Battle for Azeroth Data
+## Version: @project-version@
+## Notes: Battle for Azeroth expansion pet data for Battle Pet Completionist
+## IconTexture: Interface\Icons\Inv_Pet_Achievement_CaptureAWildPet
+## Author: GurliGebis
+## Dependencies: BattlePetCompletionist
+## X-Category: Battle Pets
+## X-Curse-Packaged-Version: @project-version@
+## X-Curse-Project-Name: Battle Pet Completionist: Pet Data
+## X-Curse-Project-ID: 1387779
+## Category-enUS: Pet Battles
+## Category-deDE: Haustierkämpfe
+## Category-esES: Duelos de mascotas
+## Category-esMX: Duelos de mascotas
+## Category-frFR: Combats de mascottes
+## Category-itIT: Mostra allenatori di mascotte
+## Category-koKR: 애완동물 대전
+## Category-ptBR: Batalhas de mascotes
+## Category-ruRU: Битвы питомцев
+## Category-zhCN: 宠物对战
+## Category-zhTW: 寵物對戰
+
+Data.lua

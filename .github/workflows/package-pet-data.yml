@@ -1,0 +1,40 @@
+name: Package Pet Data
+
+on:
+  push:
+    tags:
+    - "*-*"
+  workflow_dispatch:
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: Set up packager
+        run: $GITHUB_WORKSPACE/packager/setup-packager.sh
+        env:
+          INPUT_PANDOC: true
+
+      - name: Creating .git folders to satisfy packager
+        run: |
+          mkdir $GITHUB_WORKSPACE/Retail/.git
+          mkdir $GITHUB_WORKSPACE/Classic/.git
+        working-directory: Retail
+
+      - name: Create Retail Package
+        run: $GITHUB_WORKSPACE/packager/release.sh -g retail
+        working-directory: Retail
+        env:
+          CF_API_KEY: ${{ secrets.CURSEFORGE_API_TOKEN }}
+
+      - name: Create Classic Package
+        run: $GITHUB_WORKSPACE/packager/release.sh -g mists
+        working-directory: Classic
+        env:
+          CF_API_KEY: ${{ secrets.CURSEFORGE_API_TOKEN }}

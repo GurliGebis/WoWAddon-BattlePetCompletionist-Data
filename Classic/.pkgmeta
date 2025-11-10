@@ -1,0 +1,14 @@
+package-as: BattlePetCompletionist_PetData
+enable-nolib-creation: no
+
+move-folders:
+    BattlePetCompletionist_PetData/BattlePetCompletionist_Cataclysm: BattlePetCompletionist_Cataclysm
+    BattlePetCompletionist_PetData/BattlePetCompletionist_MistsOfPandaria: BattlePetCompletionist_MistsOfPandaria
+    BattlePetCompletionist_PetData/BattlePetCompletionist_TheBurningCrusade: BattlePetCompletionist_TheBurningCrusade
+    BattlePetCompletionist_PetData/BattlePetCompletionist_Vanilla: BattlePetCompletionist_Vanilla
+    BattlePetCompletionist_PetData/BattlePetCompletionist_WrathOfTheLichKing: BattlePetCompletionist_WrathOfTheLichKing
+
+ignore:
+  - Source
+  - TemplateData.lua
+  - Update-PetData.ps1

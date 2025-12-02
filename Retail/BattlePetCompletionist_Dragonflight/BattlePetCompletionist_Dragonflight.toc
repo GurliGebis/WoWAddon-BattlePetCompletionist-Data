@@ -1,4 +1,4 @@
-## Interface: 110205
+## Interface: 110207
 ## Title: Battle Pet Completionist: Dragonflight Data
 ## Version: @project-version@
 ## Notes: Dragonflight expansion pet data for Battle Pet Completionist

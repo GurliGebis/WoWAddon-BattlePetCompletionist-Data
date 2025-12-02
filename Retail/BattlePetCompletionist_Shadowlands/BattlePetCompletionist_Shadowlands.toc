@@ -1,4 +1,4 @@
-## Interface: 110205
+## Interface: 110207
 ## Title: Battle Pet Completionist: Shadowlands Data
 ## Version: @project-version@
 ## Notes: Shadowlands expansion pet data for Battle Pet Completionist

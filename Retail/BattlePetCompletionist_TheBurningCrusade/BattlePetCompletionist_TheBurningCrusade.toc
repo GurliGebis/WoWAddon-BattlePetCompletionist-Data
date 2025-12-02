@@ -1,4 +1,4 @@
-## Interface: 110205
+## Interface: 110207
 ## Title: Battle Pet Completionist: The Burning Crusade Data
 ## Version: @project-version@
 ## Notes: The Burning Crusade expansion pet data for Battle Pet Completionist

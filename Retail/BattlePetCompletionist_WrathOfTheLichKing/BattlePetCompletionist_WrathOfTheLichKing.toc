@@ -1,4 +1,4 @@
-## Interface: 110205
+## Interface: 110207
 ## Title: Battle Pet Completionist: Wrath of the Lich King Data
 ## Version: @project-version@
 ## Notes: Wrath of the Lich King expansion pet data for Battle Pet Completionist

@@ -1,4 +1,4 @@
-## Interface: 50501
+## Interface: 50502,50503
 ## Title: Battle Pet Completionist: Pet Data
 ## Version: @project-version@
 ## Notes: Pet data for Battle Pet Completionist

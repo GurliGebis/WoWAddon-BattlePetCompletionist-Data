@@ -1,4 +1,4 @@
-## Interface: 50502
+## Interface: 50503
 ## Title: Battle Pet Completionist: Cataclysm Data
 ## Version: @project-version@
 ## Notes: Cataclysm expansion pet data for Battle Pet Completionist

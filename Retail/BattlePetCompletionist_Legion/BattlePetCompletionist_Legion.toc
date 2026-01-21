@@ -1,4 +1,4 @@
-## Interface: 110207
+## Interface: 120000
 ## Title: Battle Pet Completionist: Legion Data
 ## Version: @project-version@
 ## Notes: Legion expansion pet data for Battle Pet Completionist

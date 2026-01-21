@@ -1,4 +1,4 @@
-## Interface: 110207
+## Interface: 120000
 ## Title: Battle Pet Completionist: Mists of Pandaria Data
 ## Version: @project-version@
 ## Notes: Mists of Pandaria expansion pet data for Battle Pet Completionist

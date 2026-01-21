@@ -1,7 +1,7 @@
 ## Interface: 120000
-## Title: Battle Pet Completionist: Wrath of the Lich King Data
+## Title: Battle Pet Completionist: Midnight Data
 ## Version: @project-version@
-## Notes: Wrath of the Lich King expansion pet data for Battle Pet Completionist
+## Notes: Midnight expansion pet data for Battle Pet Completionist
 ## IconTexture: Interface\Icons\Inv_Pet_Achievement_CaptureAWildPet
 ## Author: GurliGebis
 ## Dependencies: BattlePetCompletionist

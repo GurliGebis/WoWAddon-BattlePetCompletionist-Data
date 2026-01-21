@@ -1,4 +1,4 @@
-## Interface: 110207
+## Interface: 120000
 ## Title: Battle Pet Completionist: Vanilla Data
 ## Version: @project-version@
 ## Notes: Vanilla expansion pet data for Battle Pet Completionist

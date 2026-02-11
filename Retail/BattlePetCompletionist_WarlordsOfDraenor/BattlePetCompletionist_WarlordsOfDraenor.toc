@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120001
 ## Title: Battle Pet Completionist: Warlords of Draenor Data
 ## Version: @project-version@
 ## Notes: Warlords of Draenor expansion pet data for Battle Pet Completionist

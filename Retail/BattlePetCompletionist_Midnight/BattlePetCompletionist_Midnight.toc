@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120001
 ## Title: Battle Pet Completionist: Midnight Data
 ## Version: @project-version@
 ## Notes: Midnight expansion pet data for Battle Pet Completionist

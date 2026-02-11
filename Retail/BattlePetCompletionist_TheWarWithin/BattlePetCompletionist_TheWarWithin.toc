@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120001
 ## Title: Battle Pet Completionist: The War Within Data
 ## Version: @project-version@
 ## Notes: The War Within expansion pet data for Battle Pet Completionist

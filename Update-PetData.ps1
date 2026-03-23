@@ -67,20 +67,9 @@ function Generate-FromFolder {
             {
                 $stringBuilder.Append("[$($pet.id)]=`"") | Out-Null
 
-                $alreadyAddedList = @{}
-
                 foreach ($coordinate in $pet.coordinates)
                 {
                     $key = "$($coordinate.Split(' ')[0].Split('.')[0])-$($coordinate.Split(' ')[1].Split('.')[0])"
-
-                    if ($alreadyAddedList.ContainsKey($key))
-                    {
-                        continue;
-                    }
-                    else
-                    {
-                        $alreadyAddedList[$key] = $key
-                    }
 
                     $x = $coordinate.Split(' ')[0].Replace(".", "")
                     $y = $coordinate.Split(' ')[1].Replace(".", "")

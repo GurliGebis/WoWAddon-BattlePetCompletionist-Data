@@ -1,4 +1,4 @@
-## Interface: 120001
+## Interface: 120005
 ## Title: Battle Pet Completionist: Battle for Azeroth Data
 ## Version: @project-version@
 ## Notes: Battle for Azeroth expansion pet data for Battle Pet Completionist

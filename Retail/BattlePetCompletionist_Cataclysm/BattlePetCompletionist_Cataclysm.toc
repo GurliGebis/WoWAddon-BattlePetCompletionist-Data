@@ -1,4 +1,4 @@
-## Interface: 120001
+## Interface: 120005
 ## Title: Battle Pet Completionist: Cataclysm Data
 ## Version: @project-version@
 ## Notes: Cataclysm expansion pet data for Battle Pet Completionist
